@@ -9,4 +9,6 @@ Currently, two official plugins are available:
 "# Weather-App-with-React-JS" 
 "# Weather-app-with-React-JS"
 
-# Run commands - npm install, then npm run dev, open the local host link
+# Run commands - npm install, 
+then npm run dev, 
+open the local host link
